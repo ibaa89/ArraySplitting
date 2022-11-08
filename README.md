@@ -15,9 +15,9 @@ REQUIREMENTS:
 
 2- PHP7.4
  
- 1- php7.4-mbstring
+        1- php7.4-mbstring
   
- 2- php7.4-dom
+        2- php7.4-dom
   
  
  
