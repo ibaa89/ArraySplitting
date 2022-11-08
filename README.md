@@ -21,9 +21,10 @@ REQUIREMENTS:
   
  
  
+ 
  use composer to run the program from the terminal in the root of your project:
   
-  
+  composer install
   composer run --timeout=0 serve
  
  
