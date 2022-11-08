@@ -10,12 +10,24 @@ Complete the solution so that it splits the string into pairs of two characters.
 
 
 REQUIREMENTS:
+
 1-composer
+
 2- PHP7.4
-  1- php7.4-mbstring
-  2- php7.4-dom
+ 
+ 1- php7.4-mbstring
   
-  use composer to run the program from the terminal in the root of your project:
-   composer run --timeout=0 serve
-   then you write the following URL on your browser to test
-    localhost:8080/?str=yourStringGoesHere
+ 2- php7.4-dom
+  
+ 
+ 
+ use composer to run the program from the terminal in the root of your project:
+  
+  
+  composer run --timeout=0 serve
+ 
+ 
+ then you write the following URL on your browser to test
+   
+   
+   localhost:8080/?str=yourStringGoesHere
